@@ -1,3 +1,8 @@
+# FARS Data Table
+
+Further information about these tables can be found in the [User's Manual](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813706) on page 4 for quick reference.
+
+
 | **Data File**         | **Description**                                                                                                                                                                                                                   |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **ACCIDENT**          | Contains information about the crash characteristics and environmental conditions at the time of the crash. Each record represents a single crash.                                                                                 |
